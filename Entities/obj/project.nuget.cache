@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZBR/DFnnWvU0JQrGcam34qdtQavgQhFuacu+axXOcUdo3xHZA6tFC0lWVmrJDGU1QOJaD/hXfDMHnMpIKjX6w==",
+  "dgSpecHash": "41K1Com33iLpfvK5O/327ejN9EEqdHuOE3GN84FnEo6UO9Lu+E1Njcr7kln6W+c9yMGcOSIMVgaNIE2x1ov3NQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\PruebaTecnica2.SilvioSosa\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silvi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\silvi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

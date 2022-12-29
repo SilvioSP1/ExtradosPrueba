@@ -2,6 +2,7 @@
 using BusinessLogic.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace Api.Uno.Controllers
 {
@@ -34,7 +35,11 @@ namespace Api.Uno.Controllers
             if(reg == null) 
                 return NotFound();
 
-            return reg;
+            return Ok(new ApiResult
+            {
+                Message = "string",
+                Data = reg
+            });
         }
 
         [HttpPost]

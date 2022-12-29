@@ -29,13 +29,6 @@ namespace Api.Dos.Controllers
                 }
                 string jsonSerializado = await response.Content.ReadAsStringAsync();
                 result = JsonConvert.DeserializeObject<ApiResult>(jsonSerializado)!;
-
-                /*var reg = await service.GetById(id);
-
-                if (reg == null)
-                    return NotFound();
-
-                return reg;*/
             }
             catch (Exception e)
             {
@@ -67,13 +60,6 @@ namespace Api.Dos.Controllers
                         persona = item;
                     }
                 }
-
-                /*var reg = await service.GetById(id);
-
-                if (reg == null)
-                    return NotFound();
-
-                return reg;*/
             }
             catch (Exception e)
             {

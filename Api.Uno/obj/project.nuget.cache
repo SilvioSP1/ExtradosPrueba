@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pzkcS4SoB0U1K4HpROylejJW2ptvr3u8IxssSbv79/CGv8gfDOyRm1ApfZaPLc8FoomU2vihb1gW3LNDwt3Hw==",
+  "dgSpecHash": "l3u/BOBxqRy+HChpXMdDZX2LpJy+/7PPUXfXRXEA0p3A8p8NtqT7BZdwa/ET3RWQrxgQ4wCnydt4gk83iRprVg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\PruebaTecnica2.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+  "projectFilePath": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silvi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\silvi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

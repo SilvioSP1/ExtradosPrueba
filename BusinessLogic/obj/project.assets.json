@@ -815,11 +815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "D:\\C#\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -840,8 +840,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\PruebaTecnica2.SilvioSosa\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\C#\\PruebaTecnica2.SilvioSosa\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\PruebaTecnica2.SilvioSosa\\DataAccess\\DataAccess.csproj"
             }
           }
         }
