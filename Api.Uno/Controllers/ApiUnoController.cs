@@ -22,7 +22,7 @@ namespace Api.Uno.Controllers
             //return list.ToList();
             return Ok(new ApiResult
             {
-                Message = "string",
+                Message = "Lista Personas",
                 Data = list.ToList()
             });
         }
@@ -37,7 +37,7 @@ namespace Api.Uno.Controllers
 
             return Ok(new ApiResult
             {
-                Message = "string",
+                Message = "Persona Buscada",
                 Data = reg
             });
         }

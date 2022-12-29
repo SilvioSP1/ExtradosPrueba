@@ -67,7 +67,7 @@ namespace Api.Dos.Controllers
             }
             return Ok(new ApiResult2
             {
-                Message = "string",
+                Message = "Persona Buscada",
                 Data = persona
             });
         }
