@@ -1,0 +1,15 @@
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+D:\C#\PruebaTecnica2.SilvioSosa\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
